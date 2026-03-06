@@ -112,18 +112,6 @@ Key Contributions:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lavanyarana&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanyarana&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn
